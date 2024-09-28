@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffdbb187-1cf2-4b03-8f1e-02b7d542528c" name="Changes" comment="final push v4" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="abdulsataramiri &lt;aamiri@stud.hs-heilbronn.de&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="a3a-initial" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2fXXgsJak0DQ7PPnTvOICXJAsXL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
+    "last_opened_file_path": "F:/Java_Repository/Aufgabe2_DB/gruppe14/A4A",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.41826922",
+    "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.BasicDBServiceTestSuite (1)">
+    <configuration name="BasicDBServiceTestSuite (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DB_A2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hshn.mi.pdbg.basicservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.hshn.mi.pdbg.basicservice" />
+      <option name="MAIN_CLASS_NAME" value="de.hshn.mi.pdbg.basicservice.BasicDBServiceTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicDBServiceTestSuite (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DB_A2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hshn.mi.pdbg.basicservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.hshn.mi.pdbg.basicservice" />
+      <option name="MAIN_CLASS_NAME" value="de.hshn.mi.pdbg.basicservice.BasicDBServiceTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicDBServiceTestSuite (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DB_A2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hshn.mi.pdbg.basicservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.hshn.mi.pdbg.basicservice" />
+      <option name="MAIN_CLASS_NAME" value="de.hshn.mi.pdbg.basicservice.BasicDBServiceTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicDBServiceTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DB_A2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hshn.mi.pdbg.basicservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.hshn.mi.pdbg.basicservice" />
+      <option name="MAIN_CLASS_NAME" value="de.hshn.mi.pdbg.basicservice.BasicDBServiceTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicDBServiceTestSuite.BasicDBServiceTestSuite (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DB_A2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hshn.mi.pdbg.basicservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.hshn.mi.pdbg.basicservice" />
+      <option name="MAIN_CLASS_NAME" value="de.hshn.mi.pdbg.basicservice.BasicDBServiceTestSuite" />
+      <option name="METHOD_NAME" value="BasicDBServiceTestSuite" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BasicDBServiceTestSuite (1)" />
+        <item itemvalue="JUnit.BasicDBServiceTestSuite (4)" />
+        <item itemvalue="JUnit.BasicDBServiceTestSuite.BasicDBServiceTestSuite (1)" />
+        <item itemvalue="JUnit.BasicDBServiceTestSuite" />
+        <item itemvalue="JUnit.BasicDBServiceTestSuite (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffdbb187-1cf2-4b03-8f1e-02b7d542528c" name="Changes" comment="" />
+      <created>1713948510217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713948510217</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Tests checked">
+      <created>1714343945172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714343945172</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tests checked">
+      <created>1714867383139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714867383139</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tests checked v2">
+      <created>1714984427847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714984427847</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/a2' into a2">
+      <created>1714984450757</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714984450757</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Deleted redundant fields from patient and fixed pom.xml">
+      <created>1715157149047</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715157149047</updated>
+    </task>
+    <task id="LOCAL-00006" summary="PatientImpl BasicService checkstyle">
+      <created>1715158764174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715158764174</updated>
+    </task>
+    <task id="LOCAL-00007" summary="packageName fixed">
+      <created>1715159875241</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715159875241</updated>
+    </task>
+    <task id="LOCAL-00008" summary="connection string changed">
+      <created>1715160157224</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715160157224</updated>
+    </task>
+    <task id="LOCAL-00009" summary="connection string changed v3">
+      <created>1715160485793</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715160485793</updated>
+    </task>
+    <task id="LOCAL-00010" summary="connection string changed v3">
+      <created>1715160546512</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715160546512</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/a2' into a2">
+      <created>1715160670725</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715160670725</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1715164891561</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715164891562</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commited from a2 to main">
+      <created>1715165076894</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715165076894</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Test Commit">
+      <created>1715165313265</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715165313265</updated>
+    </task>
+    <task id="LOCAL-00015" summary="cherry-picked changes from A2 branch">
+      <created>1715167709777</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715167709777</updated>
+    </task>
+    <task id="LOCAL-00016" summary="refactoring package name structure for problematic entitityimpl directory">
+      <created>1715167821155</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715167821155</updated>
+    </task>
+    <task id="LOCAL-00017" summary="final push">
+      <created>1715761548223</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715761548223</updated>
+    </task>
+    <task id="LOCAL-00018" summary="final push v2">
+      <created>1715776202816</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715776202816</updated>
+    </task>
+    <task id="LOCAL-00019" summary="final push v3">
+      <created>1715776525387</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715776525387</updated>
+    </task>
+    <task id="LOCAL-00020" summary="final push v4">
+      <created>1715776629350</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715776629350</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/a2" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="a2" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Tests checked" />
+    <MESSAGE value="Tests checked v2" />
+    <MESSAGE value="Deleted redundant fields from patient and fixed pom.xml" />
+    <MESSAGE value="PatientImpl BasicService checkstyle" />
+    <MESSAGE value="PatientImpl BasicService checkstyle v2" />
+    <MESSAGE value="packageName fixed" />
+    <MESSAGE value="connection string changed" />
+    <MESSAGE value="connection string changed v3" />
+    <MESSAGE value="connection string changed v4" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/a2' into a2" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="commited from a2 to main" />
+    <MESSAGE value="Test Commit" />
+    <MESSAGE value="cherry-picked changes from A2 branch" />
+    <MESSAGE value="refactoring package name structure for problematic entitityimpl directory" />
+    <MESSAGE value="final push" />
+    <MESSAGE value="final push v2" />
+    <MESSAGE value="final push v3" />
+    <MESSAGE value="final push v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="final push v4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/DB2_A2-test.jar!/de/hshn/mi/pdbg/basicservice/WardTestCase.class</url>
+          <line>313</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/hshn/mi/pdbg/basicservice/impl/PatientImpl.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="de.hshn.mi.pdbg.basicservice.EntityImpl.HospitalStayImpl" memberName="ward" />
+        <PinnedItemInfo parentTag="de.hshn.mi.pdbg.basicservice.EntityImpl.HospitalStayImpl" memberName="patient" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/A2$BasicDBServiceTestSuite__2_.ic" NAME="BasicDBServiceTestSuite (2) Coverage Results" MODIFIED="1714244385282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.hshn.mi.pdbg.basicservice.*</FILTER>
+    </SUITE>
+  </component>
+</project>

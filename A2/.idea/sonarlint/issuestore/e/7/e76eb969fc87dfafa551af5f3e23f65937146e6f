@@ -1,0 +1,20 @@
+
+•
+java:S1192£"QDefine a constant instead of duplicating this literal "FROM Aufenthalt " 3 times.(Õ—¯¡8âÄ¨ß÷1J$52067d07-a4de-4c36-be73-0d0f7b845948
+«
+java:S1192ž"gDefine a constant instead of duplicating this literal "The patient ID should be greate than 0" 3 times.(¢ðô8âÄ¨ß÷1J$3d33f0da-6ccb-4ce7-a00a-5f70a400ed79
+	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¥ Š8öÄ¨ß÷1J$5c7e0f3c-18f1-4016-8dfe-62d44011e476
+‚
+java:S1854ž">Remove this useless assignment to local variable "paramIndex".(þîÕœ8úÄ¨ß÷1J$e156cad0-fbd2-4896-90c0-fc904ee1c21f
+†
+java:S1854í"BRemove this useless assignment to local variable "parameterIndex".(òŒÌ«8ƒÅ¨ß÷1J$c0e41c68-6719-4c71-b63f-7436502bb34d
+t
+java:S2695Ë"+This "PreparedStatement" has no parameters.(„¯¾­ûÿÿÿÿ8ˆÅ¨ß÷1J$a58cf151-5c2f-4e6f-9c8c-ed22e9590af2
+v
+java:S6126ñ"2Replace this String concatenation with Text block.(´¨€´8ŠÅ¨ß÷1J$709cc4c6-2070-448f-94ff-c0b0d7975978
+{
+java:S6126ù"2Replace this String concatenation with Text block.(ºÔ¦ßþÿÿÿÿ8ŠÅ¨ß÷1J$3a54e418-e3f8-4b9a-b3ec-0a3ba1ee7efe
+e
+java:S1116þ"Remove this empty statement.(€ÁÖ»ûÿÿÿÿ8‹Å¨ß÷1J$b345d01f-155d-4922-b7d6-1a873748f6de
+t
+java:S2695‚"+This "PreparedStatement" has no parameters.(„¯¾­ûÿÿÿÿ8‹Å¨ß÷1J$fe90639b-c9e8-41f6-83d0-0a146b4c6175

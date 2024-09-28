@@ -1,0 +1,8 @@
+de.hshn.mi.pdbg
+de.hshn.mi.pdbg.basicservice
+de.hshn.mi.pdbg.basicservice.gui.model
+de.hshn.mi.pdbg.basicservice.gui.reusables
+de.hshn.mi.pdbg.basicservice.jdbc.dbcreator
+de.hshn.mi.pdbg.exception
+de.hshn.mi.pdbg.schema
+de.hshn.mi.pdbg.util
