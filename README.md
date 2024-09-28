@@ -1,0 +1,3 @@
+A Java Database Service that allows the mamangesment of the hospital database. During this course we were supposed to write the SQL Script based on the UML diagram(see Diagrams.pdf). that we draw after analyzing the text of the hopsital structure.
+The service provides fast and secure operations with the database (src/main/java/de/hshn/mi/pdbg/basicservice/services/BasicDBServiceImpl.java) based on the given interface.
+The class creating the database itself is src/main/java/de/hshn/mi/pdbg/basicservice/DBCreator.java The connection string to the database and the credentials are required as parameters.
